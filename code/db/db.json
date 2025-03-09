@@ -1,0 +1,232 @@
+{
+  "items": [
+    {
+      "id": 1,
+      "title": "Kanave Kanave",
+      "singer": "Anirudh Ravichander",
+      "genre": "Romantic",
+      "imgUrl": "https://upload.wikimedia.org/wikipedia/en/d/d5/David_2013_Tamil_poster.jpg",
+      "songUrl": "Songs/kanave_kanave.mp3"
+    },
+    {
+      "id": 2,
+      "title": "Malai Mangum Neram",
+      "singer": "Javed Ali, Chinmayi",
+      "genre": "Romantic",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b273f54b6ead04e999383fbb597c",
+      "songUrl": "Songs/malai_mangum_neram.mp3"
+    },
+    {
+      "id": 3,
+      "title": "Ava Enna",
+      "singer": "Karthik",
+      "genre": "Romantic",
+      "imgUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSijQK3xPJ6c76vjqA1AJF6-oyByoNpM8Rpww&s",
+      "songUrl": "Songs/ava_enna.mp3"
+    },
+    {
+      "id": 4,
+      "title": "Vizhi Moodi Yosithal",
+      "singer": "Karthik",
+      "genre": "Romantic",
+      "imgUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfgtbQX7g28hPok9slbph9cmCWQv4fFmjZ0Q&s",
+      "songUrl": "Songs/vizhi_moodi_yosithal.mp3"
+    },
+    {
+      "id": 6,
+      "title": "Tum Hi Ho",
+      "singer": "Arijit Singh",
+      "genre": "Emotional",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b2736404721c1943d5069f0805f3",
+      "songUrl": "Songs/Tum Hi Ho.mp3"
+    },
+    {
+      "id": 10,
+      "title": "Unna Nenachu",
+      "singer": "Ilaiyaraaja",
+      "genre": "Romantic",
+      "imgUrl": "https://pbs.twimg.com/media/EJpx2enUcAAvjP-.jpg",
+      "songUrl": "Songs/unna_nenachu.mp3"
+    },
+    {
+      "id": 11,
+      "title": "Ennai Vittu",
+      "singer": "Sid Sriram",
+      "genre": "Romantic",
+      "imgUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrozGe1KM41ysXQhvuHuxuuG1199MGzkSx7A&s",
+      "songUrl": "Songs/ennai_vittu.mp3"
+    },
+    {
+      "id": 8,
+      "title": "Mudhal Nee Mudivum Nee",
+      "singer": "Sid Sriram",
+      "genre": "Romantic",
+      "imgUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_5tmw_kDj1uyVI3xVNn-pLZkT1ZUQbSfqvg&s",
+      "songUrl": "Songs/mudhal_nee.mp3"
+    },
+    {
+      "id": 5,
+      "title": "Po Nee Po",
+      "singer": "Mohit Chauhan",
+      "genre": "Romantic",
+      "imgUrl": "https://i.ytimg.com/vi/DnyA_qEbTpw/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLC2Xagv09CxwWx8kQWbSveYU-fIBQ",
+      "songUrl": "Songs/po_nee_po.mp3"
+    },
+    {
+      "id": 9,
+      "title": "Meherezylaa",
+      "singer": "Yuvan Shankar Raja",
+      "genre": "Romantic",
+      "imgUrl": "https://i.ytimg.com/vi/JNlUWST4GqM/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLC8xp3xzMM3BjNWssL0_4doneXcKA",
+      "songUrl": "Songs/meherezylaa.mp3"
+    },
+    {
+      "id": 12,
+      "title": "Kaadhal En Kaviye",
+      "singer": "Pradeep Kumar",
+      "genre": "Romantic",
+      "imgUrl": "https://i.ytimg.com/vi/m6m_IbbHl4M/maxresdefault.jpg",
+      "songUrl": "Songs/kaadhal_en_kaviye.mp3"
+    },
+    {
+      "id": 13,
+      "title": "Vaan Thooralgal",
+      "singer": "Karthik",
+      "genre": "Romantic",
+      "imgUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzX5O8Ew3ark6FVEDqk8JIa-oU1KilqzunUA&s",
+      "songUrl": "Songs/vaan_thooralgal.mp3"
+    },
+    {
+      "id": 14,
+      "title": "Mayakkama Kalakkama",
+      "singer": "Anirudh Ravichander",
+      "genre": "Romantic",
+      "imgUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWsteG1qV4J-MN-qja6ytPsa2yMx_o4jpO7Q&s",
+      "songUrl": "Songs/mayakkama_kalakkama.mp3"
+    },
+    {
+      "id": 15,
+      "title": "Naan Pizhai",
+      "singer": "Ravi G",
+      "genre": "Romantic",
+      "imgUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3NIZdqCLEs_0hMtpODJ_xSxerbEnrymMqiQ&s",
+      "songUrl": "Songs/naan_pizhai.mp3"
+    },
+    {
+      "id": 16,
+      "title": "Osaka Osaka",
+      "singer": "Anthony Daasan",
+      "genre": "Romantic",
+      "imgUrl": "https://i.ytimg.com/vi/Ml5smnK5Taw/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLC4i05px-by7vcP9mNBdYBK8aP8cQ",
+      "songUrl": "Songs/osaka_osaka.mp3"
+    },
+    {
+      "id": 17,
+      "title": "Pachai Nirame",
+      "singer": "Hariharan",
+      "genre": "Romantic",
+      "imgUrl": "https://i.ytimg.com/vi/fKmUUFWP3Kg/maxresdefault.jpg",
+      "songUrl": "Songs/pachai_nirame.mp3"
+    },
+    {
+      "id": 18,
+      "title": "Rowdy Baby",
+      "singer": "Dhanush, Dhee",
+      "genre": "Romantic",
+      "imgUrl": "https://i.ytimg.com/vi/x6Q7c9RyMzk/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLCwpViG3roI3cZQ89f4B8FTX3_wIQ",
+      "songUrl": "Songs/rowdy_baby.mp3"
+    },
+    {
+      "id": 19,
+      "title": "Thalli Pogathey",
+      "singer": "Sid Sriram",
+      "genre": "Romantic",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b27387ec8f32d8500c68a43be428",
+      "songUrl": "Songs/thalli_pogathey.mp3"
+    },
+    {
+      "id": 20,
+      "title": "Neeyum Naanum",
+      "singer": "Neeti Mohan",
+      "genre": "Romantic",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b273ae93e673b59e5579e92c74fc",
+      "songUrl": "Songs/neeyum_naanum.mp3"
+    }
+  ],
+  "favorities": [
+    {
+      "itemId": 3,
+      "title": "Ava Enna",
+      "imgUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSijQK3xPJ6c76vjqA1AJF6-oyByoNpM8Rpww&s",
+      "genre": "Romantic",
+      "songUrl": "Songs/ava_enna.mp3",
+      "singer": "Karthik",
+      "id": 1
+    },
+    {
+      "itemId": 11,
+      "title": "Ennai Vittu",
+      "imgUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrozGe1KM41ysXQhvuHuxuuG1199MGzkSx7A&s",
+      "genre": "Romantic",
+      "songUrl": "Songs/ennai_vittu.mp3",
+      "singer": "Sid Sriram",
+      "id": 2
+    },
+    {
+      "itemId": 10,
+      "title": "Unna Nenachu",
+      "imgUrl": "https://pbs.twimg.com/media/EJpx2enUcAAvjP-.jpg",
+      "genre": "Romantic",
+      "songUrl": "Songs/unna_nenachu.mp3",
+      "singer": "Ilaiyaraaja",
+      "id": 3
+    },
+    {
+      "itemId": 12,
+      "title": "Kaadhal En Kaviye",
+      "imgUrl": "https://i.ytimg.com/vi/m6m_IbbHl4M/maxresdefault.jpg",
+      "genre": "Romantic",
+      "songUrl": "Songs/kaadhal_en_kaviye.mp3",
+      "singer": "Pradeep Kumar",
+      "id": 4
+    }
+  ],
+  "playlist": [
+    {
+      "itemId": 2,
+      "title": "Malai Mangum Neram",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b273f54b6ead04e999383fbb597c",
+      "genre": "Romantic",
+      "songUrl": "Songs/malai_mangum_neram.mp3",
+      "singer": "Javed Ali, Chinmayi",
+      "id": 1
+    },
+    {
+      "itemId": 6,
+      "title": "Tum Hi Ho",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b2736404721c1943d5069f0805f3",
+      "genre": "Emotional",
+      "songUrl": "Songs/Tum Hi Ho.mp3",
+      "singer": "Arijit Singh",
+      "id": 2
+    },
+    {
+      "itemId": 5,
+      "title": "Po Nee Po",
+      "imgUrl": "https://i.ytimg.com/vi/DnyA_qEbTpw/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLC2Xagv09CxwWx8kQWbSveYU-fIBQ",
+      "genre": "Romantic",
+      "songUrl": "Songs/po_nee_po.mp3",
+      "singer": "Mohit Chauhan",
+      "id": 3
+    },
+    {
+      "itemId": 15,
+      "title": "Naan Pizhai",
+      "imgUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3NIZdqCLEs_0hMtpODJ_xSxerbEnrymMqiQ&s",
+      "genre": "Romantic",
+      "songUrl": "Songs/naan_pizhai.mp3",
+      "singer": "Ravi G",
+      "id": 4
+    }
+  ]
+}
